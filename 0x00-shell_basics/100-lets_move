@@ -1,0 +1,2 @@
+#!/bin/bash
+mvv [[:upper:]]* /tmp/u
